@@ -142,8 +142,8 @@ position: relative;
 }
 @media(max-width:767px){
     .header .main-nav > li > a{
-        padding: 30px;
-        font-size: 12px;
+        padding: 22px;
+        font-size: 10px;
         height: 30px;
     }
 }
